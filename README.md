@@ -2,8 +2,11 @@
 Strong Password generator using python...
 
 -I am just practicing to develop more like this....
+
 -It is a password generator created using python
+
 -Kindly run this either in command prompt or in your terminal
+
 -Requirements:
     *first install the modules which are mentioned in requirement.txt
     
@@ -22,6 +25,9 @@ Strong Password generator using python...
 [image](https://user-images.githubusercontent.com/86052235/209163005-90475661-31b0-4bb8-92cb-8580dec0b1a9.png)
 
 -So I recommend you to go with the length 16 or more.
+
 -Don't forget to save the password either in your Authenticator or the place where you think safe.
+
 -Bye!!
+
 -Have a nice Day!
