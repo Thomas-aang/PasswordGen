@@ -21,7 +21,7 @@ Strong Password generator using python...
 *The result of password strength analytics by [Bitwarden](https://bitwarden.com/password-strength/)
 [image](https://user-images.githubusercontent.com/86052235/209163005-90475661-31b0-4bb8-92cb-8580dec0b1a9.png)
 
---So I recommend you to go with the length 16 or more.
---Don't forget to save the password either in your Authenticator or the place where you think safe.
---Bye!!
---Have a nice Day!
+-So I recommend you to go with the length 16 or more.
+-Don't forget to save the password either in your Authenticator or the place where you think safe.
+-Bye!!
+-Have a nice Day!
