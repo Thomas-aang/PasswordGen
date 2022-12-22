@@ -8,7 +8,7 @@ Strong Password generator using python...
 ---
 
 >Requirements:
-> *    *first install the modules which are mentioned in requirements.txt*
+> *    *first install the modules which are mentioned in requirements.md*
 ---    
 -These are some screenshots of the program:
 
