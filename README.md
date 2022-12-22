@@ -35,6 +35,6 @@ So I recommend you to go with the length 16 or more.
 ***
 -Don't forget to save the password either in your Authenticator or the place where you think safe.
 
--Bye!!
+-Bye!!👋🏽
 
--Have a nice Day!
+||Have a nice Day! Wishing you good luck and fortune||
