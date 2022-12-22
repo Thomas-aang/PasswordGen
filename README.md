@@ -2,7 +2,9 @@
 Strong Password generator using python...
 
 >I am just practicing to develop more like this....
+>
 >It is a password generator created using python
+>
 >Kindly run this either in command prompt or in your terminal
 
 ---
