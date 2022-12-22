@@ -1,2 +1,2 @@
 # PasswordGen
-Sttrong Password generator using python
+Strong Password generator using python
